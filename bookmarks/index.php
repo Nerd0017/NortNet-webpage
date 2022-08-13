@@ -6,7 +6,7 @@
     <meta property="og:description" content="Websites we think are cool">
     <meta property="og:image" content="/favicon.png">-->
 
-    <title>nick and floppy's Bookmarks</title>
+    <title>nick, dkay and floppy's Bookmarks</title>
 </head>
 
 <body>
