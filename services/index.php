@@ -1,3 +1,7 @@
+<?php
+header('Content-Type: text/plain');
+die("wip");
+?>
 <html>
 <head>
     <?php require('../head.php'); ?>
