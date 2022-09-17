@@ -2,11 +2,11 @@
 <head>
     <?php require('../head.php'); ?>
     <!--<meta property="og:type" content="website">
-    <meta property="og:title" content="nick and floppy's Bookmarks">
+    <meta property="og:title" content="NortNet Bookmarks">
     <meta property="og:description" content="Websites we think are cool">
     <meta property="og:image" content="/favicon.png">-->
 
-    <title>nick, dkay and floppy's Bookmarks</title>
+    <title>NortNet Bookmarks</title>
 </head>
 
 <body>
@@ -21,12 +21,12 @@
     <table><td><img src="./icons/winworld.png" title="WinWorldPC icon"></td><td><h2><a href="https://winworldpc.com/home">WinWorldPC</a></h2></td></table>
     <p>WinWorld is an online museum dedicated to the preservation and sharing of vintage, abandoned, and pre-release software.</p>
     <br>
-    <table><td><img src="./icons/escargot.png" title="Escargot icon"></td><td><h2><a href="http://escargot.chat/">Escargot</a></h2></td></table>
+    <!---<table><td><img src="./icons/escargot.png" title="Escargot icon"></td><td><h2><a href="http://escargot.chat/">Escargot</a></h2></td></table>
     <p>MSN & Yahoo Messenger Revival</p>
     <br>
     <table><td><img src="./icons/nina.png" title="NINA icon"></td><td><h2><a href="https://nina.chat/">NINA</a></h2></td></table>
     <p>Upcoming revival of the America Online service.</p>
-    <br>
+    <br>-->
     <h2>Friends' Sites</h2>
     <hr>
     <table><td><img src="./icons/noicon.png" title="No icon available"></td><td><h2><a href="https://joshuaalto.com/">Sashi</a></h2></td></table>
@@ -39,7 +39,7 @@
     <p>noone's blog</p>
     <br>
     <table><td><img src="./icons/noicon.png" title="No icon available"></td><td><h2><a href="https://campos02.neocities.org/">campos</a></h2></td></table>
-    <p>Cool brazilian dude, does programming and stuff</p>
+    <p>campos...</p>
     <br>
     <table><td><img src="./icons/hiden.png" title="HIDEN64 icon"></td><td><h2><a href="https://hiden.pw/">HIDEN64</a></h2></td></table>
     <p>Moar buttons!</p>
